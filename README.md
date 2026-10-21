@@ -2,7 +2,7 @@
   <br />
   <div>
     <img src="https://i.gifer.com/3IsP.gif" alt="My Image" style="height: 80px; width: auto;" />
-    <img src="https://readme-typing-svg.demolab.com/?lines=%20WebGL%20|%20Front-end%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;Extensive%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=650&height=45&color=FF9900&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=%20WebGL%20|%20Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;Extensive%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=650&height=45&color=FF9900&vCenter=true&pause=1000&size=22" />
   </div>
   <br />
 </div>
